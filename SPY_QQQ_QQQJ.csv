@@ -150,7 +150,6 @@ CRM,SALESFORCE INC,Information Technology
 LIN,LINDE PLC,Materials
 PEP,PEPSICO INC,Consumer Staples
 C,CITIGROUP INC,Financials
--,US DOLLAR,N/A (Cash/Other)
 DIS,WALT DISNEY CO/THE,Communication Services
 KLAC,KLA CORP,Information Technology
 BA,BOEING CO/THE,Industrials
@@ -711,3 +710,4 @@ ZG,Zillow Group Inc,Communication Services
 LLYVA,Liberty Live Holdings Inc,Communication Services
 FWONA,Liberty Media Corp-Liberty Formula One,Communication Services
 AGPXX,Invesco Government & Agency Portfolio,N/A (Money Market Fund)
+
