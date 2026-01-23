@@ -1,4 +1,10 @@
 Ticker,Company,Sector
+GLD,SPDR Gold,Precious Metals
+SLV,iShares Silver,Precious Metals
+URA,Global X Uranium,Commodities
+COPX,Global X Copper Miners,Commodities
+GDX,VanEck Gold Miners,Precious Metals
+GDXJ,VanEck Junior Gold Miners,Precious Metals
 NVDA,NVIDIA Corp,Information Technology
 AAPL,Apple Inc,Information Technology
 MSFT,Microsoft Corp,Information Technology
@@ -710,4 +716,5 @@ ZG,Zillow Group Inc,Communication Services
 LLYVA,Liberty Live Holdings Inc,Communication Services
 FWONA,Liberty Media Corp-Liberty Formula One,Communication Services
 AGPXX,Invesco Government & Agency Portfolio,N/A (Money Market Fund)
+
 
