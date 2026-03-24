@@ -19,14 +19,16 @@ AFL,AFLAC INC,Financials,Insurance - Life
 AFRM,Affirm Holdings Inc,Financials,Financial - Miscellaneous Services
 AHR,American Healthcare REIT Inc,Real Estate,REIT - Healthcare Facilities
 AIG,AMERICAN INTERNATIONAL GROUP,Financials,Insurance - Property and Casualty
+AIT,Applied Industrial Technologies,Industrials,Industrial Distribution
 AIZ,ASSURANT INC,Financials,Insurance - Property and Casualty
 AJG,ARTHUR J GALLAGHER + CO,Financials,Insurance - Brokerage
 AKAM,AKAMAI TECHNOLOGIES INC,Information Technology,Internet - Services
 ALAB,Astera Labs Inc,Information Technology,Semiconductor - Integrated Circuits
 ALB,ALBEMARLE CORP,Materials,Chemical - Diversified
+ALE,ALLETE,Utilities,Electric Utilities
 ALGN,ALIGN TECHNOLOGY INC,Health Care,Medical - Products
 ALL,ALLSTATE CORP,Financials,Insurance - Property and Casualty
-ALLE,ALLEGION PLC,Industrials,Diversified Operations
+ALLE,Allegion,Industrials,Building Products
 ALNY,Alnylam Pharmaceuticals Inc,Health Care,Medical - Biomedical and Genetics
 AMAT,Applied Materials Inc,Information Technology,Semiconductor Equipment - Wafer Fabrication
 AMCR,AMCOR PLC,Materials,Containers - Paper and Packaging
@@ -37,6 +39,7 @@ AMP,AMERIPRISE FINANCIAL INC,Financials,Financial - Miscellaneous Services
 AMT,AMERICAN TOWER CORP,Real Estate,REIT - Other
 AMZN,Amazon.com Inc,Consumer Discretionary,Internet - Commerce
 ANET,ARISTA NETWORKS INC,Information Technology,Computer - Networking
+ANF,Abercrombie & Fitch,Consumer Discretionary,Apparel Retail
 AON,AON PLC CLASS A,Financials,Insurance - Brokerage
 AOS,SMITH (A.O.) CORP,Industrials,Industrial - Machinery
 APA,APA CORP,Energy,Oil and Gas - Exploration
@@ -46,19 +49,23 @@ APLD,Applied Digital Corp,Information Technology,Computer - Services
 APO,APOLLO GLOBAL MANAGEMENT INC,Financials,Financial - Miscellaneous Services
 APP,AppLovin Corp,Information Technology,Computer - Software
 APTV,APTIV PLC,Consumer Discretionary,Automotive - Foreign
+AR,Antero Resources,Energy,Oil & Gas Exploration & Production
 ARE,ALEXANDRIA REAL ESTATE EQUIT,Real Estate,REIT - Office
 ARES,ARES MANAGEMENT CORP   A,Financials,Financial - Miscellaneous Services
 ARGX,Argenx SE,Health Care,Medical - Biomedical and Genetics
 ARM,ARM Holdings PLC,Information Technology,Semiconductor - General
 ARWR,Arrowhead Pharmaceuticals Inc,Health Care,Medical - Biomedical and Genetics
+ASH,Ashland Inc.,Materials,Specialty Chemicals
 ASML,ASML Holding NV,Information Technology,Semiconductor Equipment - Wafer Fabrication
 ASND,Ascendis Pharma A/S,Health Care,Medical - Biomedical and Genetics
 ASTS,AST SpaceMobile Inc,Communication Services,Wireless Equipment
 ATO,ATMOS ENERGY CORP,Utilities,Utility - Gas Distribution
+AVA,Avista Corporation,Utilities,Multi-Utilities
 AVB,AVALONBAY COMMUNITIES INC,Real Estate,REIT - Residential
 AVGO,Broadcom Inc,Information Technology,Semiconductor - Broad Line
 AVY,AVERY DENNISON CORP,Materials,Office Supplies
 AWK,AMERICAN WATER WORKS CO INC,Utilities,Utility - Water Supply
+AWR,American States Water,Utilities,Water Utilities
 AXP,AMERICAN EXPRESS CO,Financials,Financial - Miscellaneous Services
 AZO,AUTOZONE INC,Consumer Discretionary,Retail - Auto and Home Supply
 BAC,BANK OF AMERICA CORP,Financials,Banks - Major Regional
@@ -66,6 +73,7 @@ BALL,BALL CORP,Materials,Containers - Paper and Packaging
 BAX,BAXTER INTERNATIONAL INC,Health Care,Medical - Products
 BBIO,Bridgebio Pharma Inc,Health Care,Medical - Biomedical and Genetics
 BBY,BEST BUY CO INC,Consumer Discretionary,Retail - Miscellaneous
+BCC,Boise Cascade,Industrials,Building Products
 BDX,BECTON DICKINSON AND CO,Health Care,Medical - Products
 BE,Bloom Energy Corporation,Industrials,Alternative Energy - Other
 BEN,FRANKLIN RESOURCES INC,Financials,Investment - Mutual Fund
@@ -73,6 +81,7 @@ BG,BUNGE GLOBAL SA,Consumer Staples,Food - Miscellaneous
 BIDU,Baidu Inc,Communication Services,Internet - Services
 BIIB,BIOGEN INC,Health Care,Medical - Biomedical and Genetics
 BK,BANK OF NEW YORK MELLON CORP,Financials,Banks - Major Regional
+BKH,Black Hills Corporation,Utilities,Multi-Utilities
 BKNG,Booking Holdings Inc,Consumer Discretionary,Internet - Commerce
 BKR,Baker Hughes Co,Energy,Oil and Gas - Field Services
 BLDR,BUILDERS FIRSTSOURCE INC,Industrials,Building Products
@@ -95,33 +104,37 @@ CBOE,CBOE GLOBAL MARKETS INC,Financials,Financial - Miscellaneous Services
 CBRE,CBRE GROUP INC   A,Real Estate,Real Estate Operations
 CCEP,Coca-Cola Europacific Partners PLC,Consumer Staples,Beverages - Soft drinks
 CCI,CROWN CASTLE INC,Real Estate,REIT - Other
+CCK,Crown Holdings,Materials,Metal & Glass Containers
 CCL,CARNIVAL CORP,Consumer Discretionary,Leisure and Recreation Services
 CDE,Coeur Mining Inc,Materials,Mining - Non Ferrous
-CDNS,CADENCE DESIGN SYS INC,Information Technology,Computer - Software
 CDNS,Cadence Design Systems Inc,Information Technology,Computer - Software
 CDW,CDW CORP/DE,Information Technology,Computer - Networking
+CE,Celanese Corporation,Materials,Specialty Chemicals
 CEG,Constellation Energy Corp,Utilities,Utility - Electric Power
-CF,CF INDUSTRIES HOLDINGS INC,Materials,Chemical - Diversified
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals
 CFG,CITIZENS FINANCIAL GROUP,Financials,Banks - Major Regional
-CHD,CHURCH + DWIGHT CO INC,Consumer Staples,Soap and Cleaning Materials
+CHD,Church & Dwight,Consumer Staples,Household Products
+CHK,Chesapeake Energy,Energy,Oil & Gas Exploration & Production
 CHKP,Check Point Software Technologies Ltd,Information Technology,Internet - Software
 CHRW,CH Robinson Worldwide Inc,Industrials,Transportation - Air Freight
 CHTR,Charter Communications Inc,Communication Services,Cable Television
 CI,THE CIGNA GROUP,Health Care,Medical - Services
 CINF,CINCINNATI FINANCIAL CORP,Financials,Insurance - Property and Casualty
 CL,COLGATE PALMOLIVE CO,Consumer Staples,Soap and Cleaning Materials
-CLX,CLOROX COMPANY,Consumer Staples,Soap and Cleaning Materials
+CLX,Clorox Company,Consumer Staples,Household Products
 CMC,Commercial Metals Co,Materials,Steel - Producers
 CMCSA,COMCAST CORP CLASS A,Communication Services,Cable Television
-CMCSA,Comcast Corp,Communication Services,Cable Television
 CME,CME GROUP INC,Financials,Financial - Miscellaneous Services
 CMG,CHIPOTLE MEXICAN GRILL INC,Consumer Discretionary,Retail - Restaurants
 CMI,CUMMINS INC,Industrials,Engines
 CMS,CMS ENERGY CORP,Utilities,Utility - Electric Power
 CNC,CENTENE CORP,Health Care,Medical - Services
 CNP,CENTERPOINT ENERGY INC,Utilities,Utility - Electric Power
+CNX,CNX Resources,Energy,Oil & Gas Exploration & Production
 COF,CAPITAL ONE FINANCIAL CORP,Financials,Financial - Miscellaneous Services
+COH,Tapestry,Consumer Discretionary,Apparel & Luxury Goods
 COIN,COINBASE GLOBAL INC  CLASS A,Financials,Financial - Miscellaneous Services
+COLM,Columbia Sportswear,Consumer Discretionary,Apparel
 COMP,Compass Inc Class A,Real Estate,Real Estate Operations
 COO,COOPER COS INC/THE,Health Care,Medical - Products
 COP,CONOCOPHILLIPS,Energy,Oil and Gas - Exploration
@@ -129,7 +142,7 @@ COPX,Global X Copper Miners,Commodities,Copper Mining
 COR,CENCORA INC,Health Care,Medical - Drugs
 COST,Costco Wholesale Corp,Consumer Staples,Retail - Discount Stores
 CPAY,CORPAY INC,Financials,Financial Transaction Services
-CPB,THE CAMPBELL S COMPANY,Consumer Staples,Food - Miscellaneous
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods
 CPRT,Copart Inc,Industrials,Auction and Valuation Services
 CPT,CAMDEN PROPERTY TRUST,Real Estate,REIT - Residential
 CRDO,CreDO Technology Group Holding Ltd,Information Technology,Computer - Networking
@@ -149,10 +162,10 @@ CTVA,CORTEVA INC,Materials,Agricultural - Products
 CVNA,CARVANA CO,Consumer Discretionary,Internet - Commerce
 CVS,CVS HEALTH CORP,Health Care,Retail - Drug Stores
 CVX,CHEVRON CORP,Energy,Oil and Gas - Integrated
+CWT,California Water Service,Utilities,Water Utilities
 CYBR,CyberArk Software Ltd,Information Technology,Internet - Software
 D,DOMINION ENERGY INC,Utilities,Utility - Electric Power
 DAL,DELTA AIR LINES INC,Industrials,Transportation - Airline
-DASH,DOORDASH INC   A,Consumer Discretionary,Internet - Delivery Services
 DASH,DoorDash Inc,Consumer Discretionary,Internet - Delivery Services
 DAY,DAYFORCE INC,Information Technology,Computer - Software
 DD,DUPONT DE NEMOURS INC,Materials,Chemical - Diversified
@@ -195,18 +208,21 @@ EMR,EMERSON ELECTRIC CO,Industrials,Diversified Operations
 ENSG,Ensign Group Inc,Health Care,Medical - Outpatient and Home Healthcare
 EOG,EOG RESOURCES INC,Energy,Oil and Gas - Exploration
 EPAM,EPAM SYSTEMS INC,Information Technology,Computer - Services
+EPD,Enterprise Products Partners,Energy,Oil & Gas Storage & Transportation
 EQIX,EQUINIX INC,Real Estate,REIT - Retail
 EQR,EQUITY RESIDENTIAL,Real Estate,REIT - Residential
 EQT,EQT CORP,Energy,Oil and Gas - Exploration
 ERIE,ERIE INDEMNITY COMPANY CL A,Financials,Insurance - Property and Casualty
 ES,EVERSOURCE ENERGY,Utilities,Utility - Electric Power
 ESS,ESSEX PROPERTY TRUST INC,Real Estate,REIT - Residential
+ET,Energy Transfer,Energy,Oil & Gas Storage & Transportation
 ETN,EATON CORP PLC,Industrials,Diversified Operations
 ETR,ENTERGY CORP,Utilities,Utility - Electric Power
 EVRG,EVERGY INC,Utilities,Utility - Electric Power
 EW,EDWARDS LIFESCIENCES CORP,Health Care,Medical - Products
 EXC,Exelon Corp,Utilities,Utility - Electric Power
 EXE,EXPAND ENERGY CORP,Energy,Energy - Alternative/Other
+EXP,Eagle Materials,Materials,Construction Materials
 EXPD,EXPEDITORS INTL WASH INC,Industrials,Transportation - Air Freight
 EXPE,EXPEDIA GROUP INC,Consumer Discretionary,Internet - Services
 EXR,EXTRA SPACE STORAGE INC,Real Estate,REIT - Self Storage
@@ -227,6 +243,7 @@ FIX,COMFORT SYSTEMS USA INC,Industrials,Construction - Engineering
 FLEX,Flex Ltd,Information Technology,Electronic - Manufacturing Services
 FLR,Fluor Corp,Industrials,Construction - Engineering
 FN,Fabrinet,Information Technology,Electronics - Miscellaneous Components
+FNF,Fidelity National Financial,Financials,Diversified Financial Services
 FOX,Fox Corp,Communication Services,Broadcast Radio and Television
 FRT,FEDERAL REALTY INVS TRUST,Real Estate,REIT - Retail
 FSLR,First Solar Inc,Information Technology,Solar
@@ -252,6 +269,7 @@ GNRC,GENERAC HOLDINGS INC,Industrials,Industrial - Machinery
 GOOGL,Alphabet Inc,Communication Services,Internet - Services
 GPC,GENUINE PARTS CO,Consumer Discretionary,Retail - Auto and Home Supply
 GPN,GLOBAL PAYMENTS INC,Financials,Financial Transaction Services
+GPS,Gap Inc.,Consumer Discretionary,Apparel Retail
 GRAB,Grab Holdings Ltd,Financials,Financial - Miscellaneous Services
 GRMN,GARMIN LTD,Consumer Discretionary,Computer - Peripherals
 GS,GOLDMAN SACHS GROUP INC,Financials,Investment Bank
@@ -260,8 +278,10 @@ GWW,WW GRAINGER INC,Industrials,Industrial - Supplies
 HAL,HALLIBURTON CO,Energy,Oil and Gas - Field Services
 HAS,HASBRO INC,Consumer Discretionary,Leisure and Recreation Products
 HBAN,HUNTINGTON BANCSHARES INC,Financials,Banks - Major Regional
+HBI,Hanesbrands,Consumer Discretionary,Apparel
 HCA,HCA HEALTHCARE INC,Health Care,Medical - Outpatient and Home Healthcare
 HD,HOME DEPOT INC,Consumer Discretionary,Retail - Home Improvement
+HE,Hawaiian Electric Industries,Utilities,Electric Utilities
 HIG,HARTFORD INSURANCE GROUP INC,Financials,Insurance - Property and Casualty
 HL,Hecla Mining Company,Materials,Mining - Gold
 HLT,HILTON WORLDWIDE HOLDINGS IN,Consumer Discretionary,Hotels and Motels
@@ -282,9 +302,10 @@ IBM,INTL BUSINESS MACHINES CORP,Information Technology,Computer - Services
 IBP,Installed Building Products Inc,Consumer Discretionary,Building Materials
 ICE,INTERCONTINENTAL EXCHANGE IN,Financials,Financial - Miscellaneous Services
 ICLR,ICON PLC,Health Care,Medical - Services
+IDA,IDACORP,Utilities,Electric Utilities
 IDCC,InterDigital Inc,Information Technology,Computer - Software
 IDXX,IDEXX Laboratories Inc,Health Care,Medical - Products
-IEX,IDEX CORP,Industrials,Diversified Operations
+IEX,IDEX Corporation,Industrials,Industrial Machinery
 IFF,INTL FLAVORS + FRAGRANCES,Materials,Chemical - Specialty
 ILMN,Illumina Inc,Health Care,Medical - Biomedical and Genetics
 INCY,INCYTE CORP,Health Care,Medical - Biomedical and Genetics
@@ -313,6 +334,8 @@ JKHY,JACK HENRY + ASSOCIATES INC,Information Technology,Computer - Services
 JNJ,JOHNSON + JOHNSON,Health Care,Large Cap Pharmaceuticals
 JPM,JPMORGAN CHASE + CO,Financials,Banks - Major Regional
 JXN,Jackson Financial Inc Class A,Financials,Insurance - Life
+K,Kellanova,Consumer Staples,Packaged Foods
+KBR,KBR Inc.,Industrials,Construction & Engineering
 KDP,Keurig Dr Pepper Inc,Consumer Staples,Beverages - Soft drinks
 KEY,KEYCORP,Financials,Banks - Major Regional
 KEYS,KEYSIGHT TECHNOLOGIES IN,Information Technology,Electronic - Misc Components
@@ -326,8 +349,11 @@ KO,COCA COLA CO/THE,Consumer Staples,Beverages - Soft drinks
 KR,KROGER CO,Consumer Staples,Retail - Supermarkets
 KVUE,KENVUE INC,Consumer Staples,Consumer Products - Misc
 L,LOEWS CORP,Financials,Insurance - Property and Casualty
+LDOS,Leidos Holdings,Industrials,IT Services
 LECO,Lincoln Electric Holdings Inc,Industrials,Industrial - Machinery
+LEG,Leggett & Platt,Consumer Discretionary,Home Furnishings
 LEN,LENNAR CORP W/D,Consumer Discretionary,Construction - Home Builders
+LEVI,Levi Strauss & Co.,Consumer Discretionary,Apparel
 LH,LABCORP HOLDINGS INC,Health Care,Medical - Services
 LII,LENNOX INTERNATIONAL INC,Industrials,Building Products
 LIN,Linde PLC,Materials,Chemical - Specialty
@@ -336,6 +362,7 @@ LLY,ELI LILLY + CO,Health Care,Large Cap Pharmaceuticals
 LNT,ALLIANT ENERGY CORP,Utilities,Utility - Electric Power
 LOGI,Logitech International SA,Information Technology,Computer - Peripherals
 LOW,LOWE S COS INC,Consumer Discretionary,Retail - Home Improvement
+LPX,Louisiana-Pacific,Materials,Building Materials
 LRCX,Lam Research Corp,Information Technology,Semiconductor Equipment - Wafer Fabrication
 LULU,LULULEMON ATHLETICA INC,Consumer Discretionary,Apparel
 LUMN,Lumen Technologies Inc,Communication Services,Communication - Network
@@ -346,8 +373,10 @@ LYB,LYONDELLBASELL INDU CL A,Materials,Chemical - Diversified
 LYV,LIVE NATION ENTERTAINMENT IN,Communication Services,Leisure and Recreation Services
 MA,MASTERCARD INC   A,Financials,Financial Transaction Services
 MAA,MID AMERICA APARTMENT COMM,Real Estate,REIT - Residential
+MAN,ManpowerGroup Inc.,Industrials,Human Resource & Employment Services
 MAR,Marriott International Inc/MD,Consumer Discretionary,Hotels and Motels
 MAS,MASCO CORP,Industrials,Building Products
+MAT,Mattel,Consumer Discretionary,Leisure Products
 MCD,MCDONALD S CORP,Consumer Discretionary,Retail - Restaurants
 MCHP,Microchip Technology Inc,Information Technology,Semiconductor - Analog and Mixed
 MCK,MCKESSON CORP,Health Care,Medical - Drugs
@@ -362,13 +391,14 @@ MET,METLIFE INC,Financials,Insurance - Life
 META,Meta Platforms Inc,Communication Services,Internet - Software
 MGM,MGM RESORTS INTERNATIONAL,Consumer Discretionary,Hotels and Motels
 MKC,MCCORMICK + CO NON VTG SHRS,Consumer Staples,Food - Miscellaneous
-MLM,MARTIN MARIETTA MATERIALS,Materials,Building Materials
+MLM,Martin Marietta Materials,Materials,Construction Materials
 MMM,3M CO,Industrials,Diversified Operations
+MMP,Magellan Midstream Partners,Energy,Oil & Gas Storage & Transportation
 MNST,Monster Beverage Corp,Consumer Staples,Beverages - Soft drinks
 MO,ALTRIA GROUP INC,Consumer Staples,Tobacco
 MOD,Modine Manufacturing Co,Industrials,Auto - Truck Parts
 MOH,MOLINA HEALTHCARE INC,Health Care,Medical - Services
-MOS,MOSAIC CO/THE,Materials,Chemical - Diversified
+MOS,Mosaic Company,Materials,Fertilizers & Agricultural Chemicals
 MPC,MARATHON PETROLEUM CORP,Energy,Oil and Gas - Refining
 MPWR,Monolithic Power Systems Inc,Information Technology,Semiconductor - Analog and Mixed
 MRK,MERCK + CO. INC.,Health Care,Large Cap Pharmaceuticals
@@ -379,11 +409,14 @@ MS,MORGAN STANLEY,Financials,Investment Bank
 MSCI,MSCI INC,Financials,Financial - Miscellaneous Services
 MSFT,Microsoft Corp,Information Technology,Computer - Software
 MSI,MOTOROLA SOLUTIONS INC,Information Technology,Communication - Components
+MSM,MSC Industrial Direct,Industrials,Industrial Distribution
 MSTR,Strategy Inc,Information Technology,Computer - Software
 MTB,M + T BANK CORP,Financials,Banks - Major Regional
 MTCH,MATCH GROUP INC,Communication Services,Internet - Services
 MTD,METTLER TOLEDO INTERNATIONAL,Health Care,Medical - Instruments
+MTG,MGIC Investment,Financials,Mortgage Insurance
 MTSI,MACOM Technology Solutions Holdings Inc,Information Technology,Semiconductor - Analog and Mixed
+MTZ,MasTec Inc.,Industrials,Construction & Engineering
 MU,Micron Technology Inc,Information Technology,Semiconductor Memory
 NBIS,Nebius Group NV,Information Technology,Computer - Services
 NBIX,Neurocrine Biosciences Inc,Health Care,Medical - Biomedical and Genetics
@@ -392,8 +425,10 @@ NDAQ,NASDAQ INC,Financials,Financial - Miscellaneous Services
 NDSN,NORDSON CORP,Industrials,Industrial - Machinery
 NEE,NEXTERA ENERGY INC,Utilities,Utility - Electric Power
 NEM,NEWMONT CORP,Materials,Mining - Gold
+NEU,NewMarket Corporation,Materials,Specialty Chemicals
 NFLX,Netflix Inc,Communication Services,Broadcast Radio and Television
 NI,NISOURCE INC,Utilities,Utility - Gas Distribution
+NJR,New Jersey Resources,Utilities,Gas Utilities
 NKE,NIKE INC  CL B,Consumer Discretionary,Shoes and Related Apparel
 NOW,SERVICENOW INC,Information Technology,Computer - Software
 NRG,NRG ENERGY INC,Utilities,Utility - Electric Power
@@ -410,9 +445,12 @@ NXPI,NXP Semiconductors NV,Information Technology,Semiconductor - Analog and Mix
 NXT,Nextpower Inc Class A,Industrials,Solar
 O,REALTY INCOME CORP,Real Estate,REIT - Retail
 ODFL,Old Dominion Freight Line Inc,Industrials,Transportation - Truck
+OGE,OGE Energy,Utilities,Electric Utilities
+OGS,ONE Gas,Utilities,Gas Utilities
 OKE,ONEOK INC,Energy,Oil and Gas - Field Services
 OKLO,Oklo Inc Class A,Utilities,Utility - Electric Power
 OKTA,Okta Inc,Information Technology,Internet - Software
+OLN,Olin Corporation,Materials,Commodity Chemicals
 OMC,OMNICOM GROUP,Communication Services,Advertising and Marketing
 ON,ON Semiconductor Corp,Information Technology,Semiconductor - Integrated Circuits
 ONB,Old National Bancorp,Financials,Banks - Regional
@@ -420,7 +458,9 @@ ORA,Ormat Technologies Inc,Utilities,Utility - Electric Power
 ORCL,ORACLE CORP,Information Technology,Computer - Software
 ORLY,O REILLY AUTOMOTIVE INC,Consumer Discretionary,Retail - Auto and Home Supply
 OTIS,OTIS WORLDWIDE CORP,Industrials,Diversified Operations
+OVV,Ovintiv,Energy,Oil & Gas Exploration & Production
 OXY,OCCIDENTAL PETROLEUM CORP,Energy,Oil and Gas - Exploration
+PAA,Plains All American Pipeline,Energy,Oil & Gas Storage & Transportation
 PANW,Palo Alto Networks Inc,Information Technology,Security and Safety Services
 PAYC,PAYCOM SOFTWARE INC,Information Technology,Computer - Software
 PAYX,Paychex Inc,Industrials,Outsourcing
@@ -440,28 +480,33 @@ PLD,PROLOGIS INC,Real Estate,REIT - Retail
 PLTR,PALANTIR TECHNOLOGIES INC A,Information Technology,Computer - Software
 PM,PHILIP MORRIS INTERNATIONAL,Consumer Staples,Tobacco
 PNC,PNC FINANCIAL SERVICES GROUP,Financials,Banks - Major Regional
-PNR,PENTAIR PLC,Industrials,Diversified Operations
+PNR,Pentair,Industrials,Industrial Machinery
 PNW,PINNACLE WEST CAPITAL,Utilities,Utility - Electric Power
 PODD,INSULET CORP,Health Care,Medical - Products
 POOL,POOL CORP,Consumer Discretionary,Retail - Miscellaneous
+POR,Portland General Electric,Utilities,Electric Utilities
 PPG,PPG INDUSTRIES INC,Materials,Chemical - Specialty
 PPL,PPL CORP,Utilities,Utility - Electric Power
 PRAX,Praxis Precision Medicines Inc,Health Care,Medical - Biomedical and Genetics
+PRI,Primerica,Financials,Life & Health Insurance
 PRIM,Primoris Services Corp,Industrials,Construction - Engineering
 PRU,PRUDENTIAL FINANCIAL INC,Financials,Insurance - Life
 PSA,PUBLIC STORAGE,Real Estate,REIT - Self Storage
 PSKY,Paramount Skydance Corp,Communication Services,Media - Diversified
 PSX,PHILLIPS 66,Energy,Oil and Gas - Refining
 PTC,PTC INC,Information Technology,Computer - Software
-PWR,QUANTA SERVICES INC,Industrials,Construction - Engineering
+PVH,PVH Corp.,Consumer Discretionary,Apparel
+PWR,Quanta Services,Industrials,Construction & Engineering
 PYPL,PayPal Holdings Inc,Financials,Financial Transaction Services
 Q,QNITY ELECTRONICS INC,Information Technology,Electronic - Misc Components
 QCOM,QUALCOMM Inc,Information Technology,Wireless Equipment
 RCL,ROYAL CARIBBEAN CRUISES LTD,Consumer Discretionary,Leisure and Recreation Services
+RDN,Radian Group,Financials,Mortgage Insurance
 REG,REGENCY CENTERS CORP,Real Estate,REIT - Retail
 REGN,Regeneron Pharmaceuticals Inc,Health Care,Medical - Biomedical and Genetics
 RF,REGIONS FINANCIAL CORP,Financials,Banks - Major Regional
 RGLD,Royal Gold Inc,Materials,Mining - Gold
+RHI,Robert Half Inc.,Industrials,Human Resource & Employment Services
 RIVN,Rivian Automotive Inc,Consumer Discretionary,Automotive - Domestic
 RJF,RAYMOND JAMES FINANCIAL INC,Financials,Investment Bank
 RL,RALPH LAUREN CORP,Consumer Discretionary,Apparel
@@ -473,6 +518,7 @@ ROK,ROCKWELL AUTOMATION INC,Industrials,Diversified Operations
 ROL,ROLLINS INC,Industrials,Outsourcing
 ROP,Roper Technologies Inc,Industrials,Computer - Software
 ROST,Ross Stores Inc,Consumer Discretionary,Retail - Discount Stores
+RPM,RPM International,Materials,Specialty Chemicals
 RPRX,Royalty Pharma PLC,Health Care,Medical - Drugs
 RSG,REPUBLIC SERVICES INC,Industrials,Waste Disposal
 RVMD,Revolution Medicines Inc,Health Care,Medical - Biomedical and Genetics
@@ -482,10 +528,12 @@ SATS,EchoStar Corp Class A,Communication Services,Satellite and Communication
 SBAC,SBA COMMUNICATIONS CORP,Real Estate,REIT - Other
 SBUX,Starbucks Corp,Consumer Discretionary,Retail - Restaurants
 SCHW,SCHWAB (CHARLES) CORP,Financials,Investment Bank
+SEE,Sealed Air,Materials,Packaging
 SHOP,Shopify Inc,Information Technology,Internet - Services
 SHW,SHERWIN WILLIAMS CO/THE,Materials,Chemical - Diversified
 SITM,SiTime Corp,Information Technology,Semiconductor - Analog and Mixed
 SJM,JM SMUCKER CO/THE,Consumer Staples,Food - Miscellaneous
+SJW,SJW Group,Utilities,Water Utilities
 SLB,SLB LTD,Energy,Oil and Gas - Field Services
 SLV,iShares Silver,Precious Metals,Precious Metals
 SMCI,SUPER MICRO COMPUTER INC,Information Technology,Computer - Networking
@@ -501,6 +549,7 @@ SPG,SIMON PROPERTY GROUP INC,Real Estate,REIT - Retail
 SPGI,S+P GLOBAL INC,Financials,Financial - Miscellaneous Services
 SPXC,SPX Technologies Inc,Industrials,Diversified Operations
 SRE,SEMPRA,Utilities,Utility - Gas Distribution
+SSD,Simpson Manufacturing,Industrials,Building Products
 SSNC,SS&C Technologies Holdings Inc,Information Technology,Computer - Software
 STE,STERIS PLC,Health Care,Medical - Products
 STLD,STEEL DYNAMICS INC,Materials,Steel - Producers
@@ -511,6 +560,7 @@ STZ,CONSTELLATION BRANDS INC A,Consumer Staples,Beverages - Soft drinks
 SW,SMURFIT WESTROCK PLC,Materials,Containers - Paper and Packaging
 SWK,STANLEY BLACK + DECKER INC,Industrials,Tools - Hand Held
 SWKS,SKYWORKS SOLUTIONS INC,Information Technology,Semiconductor - Radio Frequency
+SWX,Southwest Gas Holdings,Utilities,Gas Utilities
 SYF,SYNCHRONY FINANCIAL,Financials,Financial - Miscellaneous Services
 SYK,STRYKER CORP,Health Care,Medical - Products
 SYY,SYSCO CORP,Consumer Staples,Food - Miscellaneous
@@ -532,6 +582,7 @@ TMO,THERMO FISHER SCIENTIFIC INC,Health Care,Medical - Instruments
 TMUS,T-Mobile US Inc,Communication Services,Wireless National
 TPL,TEXAS PACIFIC LAND CORP,Energy,Oil and Gas - Exploration
 TPR,TAPESTRY INC,Consumer Discretionary,Apparel
+TREX,Trex Company,Industrials,Building Products
 TRGP,TARGA RESOURCES CORP,Energy,Oil and Gas - Field Services
 TRI,Thomson Reuters Corp,Industrials,Media - Diversified
 TRMB,TRIMBLE INC,Information Technology,Computer - Peripherals
@@ -550,6 +601,8 @@ UAL,UNITED AIRLINES HOLDINGS INC,Industrials,Transportation - Airline
 UBER,UBER TECHNOLOGIES INC,Industrials,Transportation - Services
 UDR,UDR INC,Real Estate,REIT - Residential
 UEC,Uranium Energy Corp,Energy,Uranium
+UFPI,UFP Industries,Industrials,Building Products
+UGI,UGI Corporation,Utilities,Multi-Utilities
 UHS,UNIVERSAL HEALTH SERVICES B,Health Care,Medical - Outpatient and Home Healthcare
 ULTA,ULTA BEAUTY INC,Consumer Discretionary,Retail - Miscellaneous
 UMBF,UMB Financial Corp,Financials,Banks - Regional
@@ -557,14 +610,17 @@ UNH,UNITEDHEALTH GROUP INC,Health Care,Medical - Services
 UNP,UNION PACIFIC CORP,Industrials,Transportation - Rail
 UPS,UNITED PARCEL SERVICE CL B,Industrials,Transportation - Air Freight
 URA,Global X Uranium,Commodities,Uranium
+URBN,Urban Outfitters,Consumer Discretionary,Apparel Retail
 URI,UNITED RENTALS INC,Industrials,Leasing
 USB,US BANCORP,Financials,Banks - Major Regional
 UTHR,United Therapeutics Corp,Health Care,Medical - Biomedical and Genetics
 V,VISA INC CLASS A SHARES,Financials,Financial Transaction Services
+VFC,VF Corporation,Consumer Discretionary,Apparel
 VICI,VICI PROPERTIES INC,Real Estate,REIT - Other
 VLO,VALERO ENERGY CORP,Energy,Oil and Gas - Refining
 VLTO,VERALTO CORP,Industrials,Diversified Operations
-VMC,VULCAN MATERIALS CO,Materials,Building Materials
+VMC,Vulcan Materials,Materials,Construction Materials
+VOYA,Voya Financial,Financials,Retirement Services
 VRSK,Verisk Analytics Inc,Industrials,Business - Information Services
 VRSN,VERISIGN INC,Information Technology,Internet - Software
 VRTX,Vertex Pharmaceuticals Inc,Health Care,Medical - Biomedical and Genetics
@@ -579,11 +635,14 @@ WDAY,Workday Inc,Information Technology,Computer - Software
 WDC,Western Digital Corp,Information Technology,Computer - Storage Devices
 WEC,WEC ENERGY GROUP INC,Utilities,Utility - Electric Power
 WELL,WELLTOWER INC,Real Estate,REIT - Healthcare Facilities
+WEX,WEX Inc.,Financials,Transaction & Payment Processing Services
 WFC,WELLS FARGO + CO,Financials,Banks - Major Regional
+WHR,Whirlpool Corporation,Consumer Discretionary,Household Appliances
 WM,WASTE MANAGEMENT INC,Industrials,Waste Disposal
 WMB,WILLIAMS COS INC,Energy,Oil and Gas - Field Services
 WMT,Walmart Inc,Consumer Staples,Retail - Supermarkets
 WRB,WR BERKLEY CORP,Financials,Insurance - Property and Casualty
+WRK,WestRock,Materials,Containers & Packaging
 WSM,WILLIAMS SONOMA INC,Consumer Discretionary,Retail - Home Furnishings
 WST,WEST PHARMACEUTICAL SERVICES,Health Care,Medical - Products
 WTS,Watts Water Technologies Inc Class,Industrials,Industrial - Machinery
@@ -603,99 +662,3 @@ ZM,Zoom Communications Inc,Information Technology,Internet - Software
 ZS,Zscaler Inc,Information Technology,Internet - Software
 ZTS,ZOETIS INC,Health Care,Medical - Drugs
 ZWS,Zurn Elkay Water Solutions Corp,Industrials,Industrial - Machinery
-LDOS,Leidos Holdings,Industrials,IT Services
-J,Jacobs Solutions,Industrials,Construction & Engineering
-PWR,Quanta Services,Industrials,Construction & Engineering
-AOS,A. O. Smith,Industrials,Building Products
-ALLE,Allegion,Industrials,Building Products
-PNR,Pentair,Industrials,Industrial Machinery
-IEX,IDEX Corporation,Industrials,Industrial Machinery
-UNP,Union Pacific,Industrials,Rail Transportation
-CSX,CSX Corporation,Industrials,Rail Transportation
-NSC,Norfolk Southern,Industrials,Rail Transportation
-UPS,United Parcel Service,Industrials,Air Freight & Logistics
-EXPD,Expeditors International,Industrials,Air Freight & Logistics
-RPM,RPM International,Materials,Specialty Chemicals
-AVY,Avery Dennison,Materials,Containers & Packaging
-PKG,Packaging Corporation of America,Materials,Containers & Packaging
-IP,International Paper,Materials,Paper & Forest Products
-WRK,WestRock,Materials,Containers & Packaging
-MOS,Mosaic Company,Materials,Fertilizers & Agricultural Chemicals
-CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals
-DD,DuPont de Nemours,Materials,Specialty Chemicals
-DOW,Dow Inc.,Materials,Commodity Chemicals
-LYB,LyondellBasell Industries,Materials,Commodity Chemicals
-BALL,Ball Corporation,Materials,Containers & Packaging
-CCK,Crown Holdings,Materials,Metal & Glass Containers
-SEE,Sealed Air,Materials,Packaging
-VMC,Vulcan Materials,Materials,Construction Materials
-MLM,Martin Marietta Materials,Materials,Construction Materials
-ET,Energy Transfer,Energy,Oil & Gas Storage & Transportation
-EPD,Enterprise Products Partners,Energy,Oil & Gas Storage & Transportation
-PAA,Plains All American Pipeline,Energy,Oil & Gas Storage & Transportation
-MMP,Magellan Midstream Partners,Energy,Oil & Gas Storage & Transportation
-AR,Antero Resources,Energy,Oil & Gas Exploration & Production
-CHK,Chesapeake Energy,Energy,Oil & Gas Exploration & Production
-OVV,Ovintiv,Energy,Oil & Gas Exploration & Production
-CNX,CNX Resources,Energy,Oil & Gas Exploration & Production
-WHR,Whirlpool Corporation,Consumer Discretionary,Household Appliances
-LEG,Leggett & Platt,Consumer Discretionary,Home Furnishings
-MAT,Mattel,Consumer Discretionary,Leisure Products
-PVH,PVH Corp.,Consumer Discretionary,Apparel
-COH,Tapestry,Consumer Discretionary,Apparel & Luxury Goods
-ANF,Abercrombie & Fitch,Consumer Discretionary,Apparel Retail
-URBN,Urban Outfitters,Consumer Discretionary,Apparel Retail
-GPS,Gap Inc.,Consumer Discretionary,Apparel Retail
-LEVI,Levi Strauss & Co.,Consumer Discretionary,Apparel
-HBI,Hanesbrands,Consumer Discretionary,Apparel
-VFC,VF Corporation,Consumer Discretionary,Apparel
-COLM,Columbia Sportswear,Consumer Discretionary,Apparel
-CAG,Conagra Brands,Consumer Staples,Packaged Foods
-CPB,Campbell Soup Company,Consumer Staples,Packaged Foods
-HRL,Hormel Foods,Consumer Staples,Packaged Foods
-MKC,McCormick & Company,Consumer Staples,Packaged Foods
-SJM,J.M. Smucker Company,Consumer Staples,Packaged Foods
-TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats
-K,Kellanova,Consumer Staples,Packaged Foods
-GIS,General Mills,Consumer Staples,Packaged Foods
-CLX,Clorox Company,Consumer Staples,Household Products
-CHD,Church & Dwight,Consumer Staples,Household Products
-OGE,OGE Energy,Utilities,Electric Utilities
-IDA,IDACORP,Utilities,Electric Utilities
-POR,Portland General Electric,Utilities,Electric Utilities
-BKH,Black Hills Corporation,Utilities,Multi-Utilities
-HE,Hawaiian Electric Industries,Utilities,Electric Utilities
-AVA,Avista Corporation,Utilities,Multi-Utilities
-ALE,ALLETE,Utilities,Electric Utilities
-OGS,ONE Gas,Utilities,Gas Utilities
-RHI,Robert Half Inc.,Industrials,Human Resource & Employment Services
-MAN,ManpowerGroup Inc.,Industrials,Human Resource & Employment Services
-GWW,W.W. Grainger,Industrials,Industrial Distribution
-FAST,Fastenal Company,Industrials,Industrial Distribution
-MSM,MSC Industrial Direct,Industrials,Industrial Distribution
-AIT,Applied Industrial Technologies,Industrials,Industrial Distribution
-KBR,KBR Inc.,Industrials,Construction & Engineering
-MTZ,MasTec Inc.,Industrials,Construction & Engineering
-DY,Dycom Industries,Industrials,Construction & Engineering
-EXP,Eagle Materials,Materials,Construction Materials
-SSD,Simpson Manufacturing,Industrials,Building Products
-UFPI,UFP Industries,Industrials,Building Products
-TREX,Trex Company,Industrials,Building Products
-BCC,Boise Cascade,Industrials,Building Products
-LPX,Louisiana-Pacific,Materials,Building Materials
-OLN,Olin Corporation,Materials,Commodity Chemicals
-ASH,Ashland Inc.,Materials,Specialty Chemicals
-NEU,NewMarket Corporation,Materials,Specialty Chemicals
-CE,Celanese Corporation,Materials,Specialty Chemicals
-WEX,WEX Inc.,Financials,Transaction & Payment Processing Services
-FNF,Fidelity National Financial,Financials,Diversified Financial Services
-RDN,Radian Group,Financials,Mortgage Insurance
-MTG,MGIC Investment,Financials,Mortgage Insurance
-PRI,Primerica,Financials,Life & Health Insurance
-VOYA,Voya Financial,Financials,Retirement Services
-NJR,New Jersey Resources,Utilities,Gas Utilities
-SWX,Southwest Gas Holdings,Utilities,Gas Utilities
-UGI,UGI Corporation,Utilities,Multi-Utilities
-AWR,American States Water,Utilities,Water Utilities
-CWT,California Water Service,Utilities,Water Utilities
-SJW,SJW Group,Utilities,Water Utilities
