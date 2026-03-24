@@ -133,7 +133,6 @@ BALL,BALL CORP,Materials,Containers - Paper and Packaging
 BANC,BANC OF CALIFORNIA INC,Financials,Banks - Regional
 BANF, BancFirst Corp, Financials, Banks - Regional 
 BAP, Credicorp Ltd, Financials, Banks - Major Regional 
-Based on the provided tickers.txt file, here is a selection of 305 stocks to help round out your 1,000-stock list. This list is formatted with the Ticker, Company Name
 BAX,BAXTER INTERNATIONAL INC,Health Care,Medical - Products
 BBIO,Bridgebio Pharma Inc,Health Care,Medical - Biomedical and Genetics
 BBW, Build-A-Bear Workshop Inc, Consumer Discretionary, Retail - Miscellaneous 
@@ -304,7 +303,6 @@ CSGP,CoStar Group Inc,Real Estate,Real Estate Operations
 CSL, Carlisle Cos Inc, Industrials, Diversified Operations 
 CSX,CSX Corp,Industrials,Transportation - Rail
 CTAS,Cintas Corp,Industrials,Uniform and Related
-CTLT, Catalent Inc, Health Care, Medical - Drugs 
 CTOS, Custom Truck One Source Inc, Industrials, Leasing 
 CTRA,COTERRA ENERGY INC,Energy,Oil and Gas - Exploration
 CTRE,CareTrust REIT Inc,Real Estate,REIT - Healthcare Facilities
@@ -395,7 +393,6 @@ ELF, e.l.f. Beauty Inc, Consumer Staples, Consumer Products - Misc
 ELV,ELEVANCE HEALTH INC,Health Care,Medical - Services
 EME,EMCOR GROUP INC,Industrials,Construction - Engineering
 EMR,EMERSON ELECTRIC CO,Industrials,Diversified Operations
-ENLC, Enlink Midstream LLC, Energy, Oil & Gas Storage & Transportation 
 ENOV, Enovis Corp, Health Care, Medical - Products 
 ENS, EnerSys, Industrials, Industrial - Machinery 
 ENSG,Ensign Group Inc,Health Care,Medical - Outpatient and Home Healthcare
@@ -409,7 +406,6 @@ EQH, Equitable Holdings Inc, Financials, Insurance - Life
 EQIX,EQUINIX INC,Real Estate,REIT - Retail
 EQR,EQUITY RESIDENTIAL,Real Estate,REIT - Residential
 EQT,EQT CORP,Energy,Oil and Gas - Exploration
-ERF, Enerplus Corp, Energy, Oil and Gas - Exploration 
 ERIE,ERIE INDEMNITY COMPANY CL A,Financials,Insurance - Property and Casualty
 ES,EVERSOURCE ENERGY,Utilities,Utility - Electric Power
 ESAB, ESAB Corp, Industrials, Industrial - Machinery 
@@ -469,6 +465,7 @@ FTV,FORTIVE CORP,Industrials,Diversified Operations
 FULT, Fulton Financial Corp, Financials, Banks - Regional 
 FWONK,Liberty Media Corp-Liberty Formula One,Communication Services,Media - Diversified
 FWRG, First Watch Restaurant Group Inc, Consumer Discretionary, Retail - Restaurants 
+GAP,Gap Inc.,Consumer Discretionary,Apparel Retail
 GATX, GATX Corp, Industrials, Leasing 
 GBX, Greenbrier Companies Inc, Industrials, Transportation - Equip and Leasing 
 GCI, Gannett Co Inc, Communication Services, Media - Diversified 
@@ -512,7 +509,6 @@ GPMT, Granite Point Mortgage Trust Inc, Real Estate, REIT - Mortgage
 GPN,GLOBAL PAYMENTS INC,Financials,Financial Transaction Services
 GPRE, Green Plains Inc, Materials, Commodity Chemicals 
 GPRK, GeoPark Ltd, Energy, Oil & Gas Exploration & Production 
-GPS,Gap Inc.,Consumer Discretionary,Apparel Retail
 GRAB,Grab Holdings Ltd,Financials,Financial - Miscellaneous Services
 GRMN,GARMIN LTD,Consumer Discretionary,Computer - Peripherals
 GS,GOLDMAN SACHS GROUP INC,Financials,Investment Bank
@@ -696,7 +692,7 @@ LH,LABCORP HOLDINGS INC,Health Care,Medical - Services
 LII,LENNOX INTERNATIONAL INC,Industrials,Building Products
 LIN,Linde PLC,Materials,Chemical - Specialty
 LITE,Lumentum Holdings Inc,Information Technology,Communication - Components
-LLY,ELI LILLY + CO,Health Care,Large Cap Pharmaceuticals
+LLY,ELI LILLY + CO,Health Care,Large Cap Pharmaceuticals, Sector, and Industry as requested:
 LNT,ALLIANT ENERGY CORP,Utilities,Utility - Electric Power
 LOGI,Logitech International SA,Information Technology,Computer - Peripherals
 LOW,LOWE S COS INC,Consumer Discretionary,Retail - Home Improvement
@@ -832,11 +828,16 @@ PSA,PUBLIC STORAGE,Real Estate,REIT - Self Storage
 PSKY,Paramount Skydance Corp,Communication Services,Media - Diversified
 PSX,PHILLIPS 66,Energy,Oil and Gas - Refining
 PTC,PTC INC,Information Technology,Computer - Software
+PTEN,Patterson-UTI Energy Inc,Energy,Oil and Gas - Field Services
 PVH,PVH Corp.,Consumer Discretionary,Apparel
 PWR,Quanta Services,Industrials,Construction & Engineering
+PYCR,Paycor HCM Inc,Industrials,Human Resource & Employment Services
 PYPL,PayPal Holdings Inc,Financials,Financial Transaction Services
 Q,QNITY ELECTRONICS INC,Information Technology,Electronic - Misc Components
 QCOM,QUALCOMM Inc,Information Technology,Wireless Equipment
+QDEL,QuidelOrtho Corp,Health Care,Medical - Products
+QLYS,Qualys Inc,Information Technology,Internet - Software
+QRTEA,Qurate Retail Inc,Consumer Discretionary,Retail - Discount Stores
 RCL,ROYAL CARIBBEAN CRUISES LTD,Consumer Discretionary,Leisure and Recreation Services
 RDN,Radian Group,Financials,Mortgage Insurance
 REG,REGENCY CENTERS CORP,Real Estate,REIT - Retail
@@ -998,4 +999,3 @@ ZG,Zillow Group Inc,Communication Services,Internet - Services
 ZM,Zoom Communications Inc,Information Technology,Internet - Software
 ZS,Zscaler Inc,Information Technology,Internet - Software
 ZTS,ZOETIS INC,Health Care,Medical - Drugs
-ZWS,Zurn Elkay Water Solutions Corp,Industrials,Industrial - Machinery
